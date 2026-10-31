@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello, I’m Serena 👋 
+I'm a student at Mount Mary University majoring in Business Analytics with minors in Business Administration and Computer Science. I'm passionate about combining my interests in data analytics, computer science, and business to develop solutions that help organizations make better use of their data, improve business processes, and enhance customer experiences.
 
-<!--
-**matovic98-sm/matovic98-sm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Technologies and Tools 
+- **Languages:**
+- **Currently Learning:**
+- **Tools:**
 
-Here are some ideas to get you started:
+## 📁 Current Projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Want to Connect? Here’s How to Reach Me:
+
+## ⭐ About Me ⭐
+
+
