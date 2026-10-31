@@ -7,6 +7,11 @@ I'm a student at Mount Mary University majoring in Business Analytics with minor
 - **Tools:** VS Code, Git, GitHub, Lucidchart
 
 ## 📁 Current Projects  
+- Developing an interactive and responsive website using HTML, CSS, and JavaScript, with API integration to  retrieve and display dynamic data.
+
+- Creating interactive data visualization dashboards in Tableau and analyzing business trends to develop data-driven recommendations.
+
+- Developing a Python-based inventory management system using pandas and CSV files to organize inventory, track quantities, and manage expiration dates.
 
 ## 📫 Want to Connect? Here’s How to Reach Me:
 
