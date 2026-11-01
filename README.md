@@ -19,5 +19,9 @@ I'm a student at Mount Mary University majoring in Business Analytics with minor
 - [Check out my Handshake profile](https://app.joinhandshake.com/profiles/rg6j4n)
 
 ## ⭐ About Me ⭐
+- 🐶 I love dogs and currently have four: two Beagles, an Australian Shepherd, and a Chihuahua mix.
 
+- 🎮 My favorite video games are cozy games, especially those that focus on creativity, exploration, and world-building.
+
+- 🎥 I enjoy horror and thriller movies, particularly those that explore psychological themes.
 
